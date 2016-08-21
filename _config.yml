@@ -12,5 +12,9 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.25212924811057746
 name: JOAN RASPO
+navigation:
+  - name: WORK
+    id: 17d491cb-600a-4e70-9b1c-eac8b72bf4a7
+    type: content
 title: ART-ful Musings
 description: MY PASSION
