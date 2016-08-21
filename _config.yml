@@ -23,5 +23,8 @@ navigation:
   - name: About
     url: About
     type: external
+  - name: CV
+    url: CV
+    type: external
 title: ART-ful Musings
 description: MY PASSION
