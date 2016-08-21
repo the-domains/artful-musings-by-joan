@@ -20,5 +20,8 @@ navigation:
   - name: WORK
     id: 17d491cb-600a-4e70-9b1c-eac8b72bf4a7
     type: content
+  - name: About
+    url: About
+    type: external
 title: ART-ful Musings
 description: MY PASSION
