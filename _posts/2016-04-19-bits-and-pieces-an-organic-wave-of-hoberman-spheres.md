@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-20T22:09:26.667Z'
+datePublished: '2016-08-20T22:14:06.965Z'
 sourcePath: _posts/2016-04-19-bits-and-pieces-an-organic-wave-of-hoberman-spheres.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.creativeapplications.net/news/bits-and-pieces-an-inverted-landscape-of-always-moving-hoberman-spheres/
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - creativeapplications
   - servo
@@ -22,7 +20,7 @@ author:
   - name: Filip Visnjic
     url: 'http://www.creativeapplications.net/author/filip/'
     avatar: {}
-dateModified: '2016-08-20T22:09:26.253Z'
+dateModified: '2016-08-20T22:14:06.109Z'
 title: Bits And Pieces - An organic wave of Hoberman Spheres
 app_links: []
 publisher:
@@ -41,6 +39,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: bits-and-pieces-an-organic-wave-of-hoberman-spheres/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
