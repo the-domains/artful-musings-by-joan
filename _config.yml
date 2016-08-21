@@ -1,3 +1,4 @@
+layout_spectrum: 0.25212924811057746
 typography_spectrum: 0.8623444258701056
 color:
   brandStrength: 0.9731055346783251
@@ -10,15 +11,4 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.25212924811057746
-author:
-  name: Joan Raspo
-  email: joan.raspo@gmail.com
-  url: 'http://www.joanraspo-art.com/'
-name: JOAN RASPO
-navigation:
-  - name: WORK
-    id: 17d491cb-600a-4e70-9b1c-eac8b72bf4a7
-    type: content
-title: ART-ful Musings
-description: MY PASSION
+name: ARTful musings by Joan
