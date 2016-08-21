@@ -11,6 +11,10 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.25212924811057746
+author:
+  name: Joan Raspo
+  email: joan.raspo@gmail.com
+  url: ''
 name: JOAN RASPO
 navigation:
   - name: WORK
