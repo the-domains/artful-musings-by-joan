@@ -23,5 +23,8 @@ navigation:
   - name: 'ABOUT '
     id: 9268324e-6e2e-41a2-841a-ac878f712f31
     type: content
+  - name: CONTACT
+    id: ec294bcc-8c96-4267-8329-490da07a39c2
+    type: content
 title: ART-ful Musings
 description: MY PASSION
