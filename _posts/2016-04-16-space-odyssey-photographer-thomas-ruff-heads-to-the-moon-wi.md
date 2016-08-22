@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-08-20T22:09:26.682Z'
+datePublished: '2016-08-21T21:31:20.768Z'
 sourcePath: >-
   _posts/2016-04-16-space-odyssey-photographer-thomas-ruff-heads-to-the-moon-wi.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.wallpaper.com/art/thomas-ruff-heads-to-the-moon-with-new-work-at-david-zwirner
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - ruff
   - zwirner
@@ -22,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-20T22:09:26.283Z'
+dateModified: '2016-08-21T21:31:20.287Z'
 title: 'Space odyssey: photographer Thomas Ruff heads to the moon with new work.'
 app_links: []
 publisher:
@@ -39,6 +37,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: space-odyssey-photographer-thomas-ruff-heads-to-the-moon-wi/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
